@@ -71,17 +71,4 @@ public class CS112JAVA
     }
 }
     
-   /*
-        Scanner input = new Scanner(System.in);
-        int studentCounter = 0;
-        int Grade = 0;
-        while (studentCounter <= 4)
-        {
-            System.out.println(studentCounter++);
-            //Grade = input.nextInt();
-            //Grade += studentCounter;
-            //++studentCounter;
-            //System.out.println("The result is " + Grade + "\n");
-            //System.out.println("The student counter is " + studentCounter + "\n");
-        }
-        System.out.println("Every thing is done."); */
+//Got it...please update BlackBoard.
